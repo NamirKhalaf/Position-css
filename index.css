@@ -1,0 +1,390 @@
+
+
+
+
+.productly {
+    position: relative;
+    width: 1400px;
+    height: 3843px;
+    background:white;
+}
+.navigation {
+    position:static ;
+    width: 1400px;
+    height: 78px;
+    left: 0px;
+    top: 20px;
+    background-color:white;
+    
+}
+
+.logo {
+
+   position: absolute;
+   width: 185.34px;
+   height: 31.97px;
+   left: 144px;
+   top: 22px;
+   background-color: white;
+   color:#2F281E;
+   font-family:'Yusei Magic', sans-serif;
+   border-radius: 0px;
+   font-size: 25px;
+   font-weight: 900px;
+   line-height: 24px;
+   letter-spacing: 0px;
+   text-align: center;
+   text-shadow: 2px 2px 5px black
+ }
+
+
+
+.button1 {
+   position: absolute;
+   left:1145px;
+   top:15px;
+   color:white;
+   background-color:#FF9900 ;
+   box-sizing: border-box;
+   padding: 10px;
+   height: 46px;
+   width: 102px;
+   text-align: center;
+
+}
+.button2 {
+   position:absolute;
+   left: 1029px;
+   top:15px ;
+   border: 1px solid #BCD0E5;
+   box-sizing: border-box;
+   padding: 10px;
+   height: 46px;
+   width: 102px;
+   background-color: white ;
+   color:#173A56; 
+}
+
+.text {
+   position: absolute;   
+   width: 350px; 
+   height: 28px; 
+   top: 24px;
+   left: 650px;
+   font-family: Poppins;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 28px;
+   word-spacing: 15px;
+   background-color: white;
+}
+
+.header {
+    position: absolute; 
+    width: 1400px;
+    height: 496px;
+    left: 145px;
+    top: 30px;
+
+}
+.text-desing {
+    position: absolute;
+    width: 518px;
+    height: 331px;
+    left: 145px;
+    top: 211px;
+     }
+
+.button-h {
+    position: absolute;
+    left:0px;
+    bottom: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0px;
+    color: white;
+    box-sizing: border-box;
+    width: 175px;
+    height: 53px;
+    text-align: center;
+    background: #FF9900;
+    
+}
+.button-v {
+    position: absolute;
+    width: 161px;
+    height: 23px;
+    left: 250px;
+    bottom: 0px;
+    color:#FF9900 ;
+}
+
+img {
+    position: absolute;
+    width: 605px;
+    height: 496px;
+    left: 450px;
+    top: 30px;
+}
+
+.Feature {
+    position: relative;
+    width: 2211px;
+    height: 543px;
+    left: -406px;
+    top: 732px;  
+}
+
+.text-feature {
+    position: absolute;
+    height: 108px;
+    width: 700px;
+    top: 0px;
+    left: 600px;
+    font-style: normal;
+   font-size: 25px;
+    line-height: 54px;
+    text-align: center;
+    color: #2F281E; 
+}
+
+.card {
+    position: relative;
+    width: 1095px;
+    height: 204px;
+    left: 400px;
+    top: 0px;
+    
+}
+.box-1 {
+    position: absolute; ;
+    left: 567px;
+    top: 162px;
+    width: 240px;
+    height: 178px;
+    
+  
+}
+ .box-2 {
+    position: absolute;
+    left: 853px;
+    width: 175px;
+    height: 53px;
+    top: 162px;
+ }
+
+ .box-3 {
+     position: absolute;
+    left: 1138px;
+    top: 162px;
+    width: 240px;
+    height: 178px;
+ }
+
+ .box-4 {
+    position: absolute;
+    left: 1422px;
+    top: 162px;
+    width: 240px;
+    height: 178px;
+ }
+
+ .button-f{
+    position: absolute;
+    left: 1000px;
+    top: 350px;
+    width: 175px;
+    height: 53px;
+    line-height: 50px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0px;
+    text-align: center;
+    color: white;
+    background-color:#FF9900;   
+ }
+
+
+ .professionals {
+    position: relative;
+    width: 1400px;
+    height: 574px;
+    left: 145px;
+    top: 136px;  
+ }
+
+
+ .pro-text {
+    position: absolute;
+    width: 400px;
+    height: 531px;
+    left: 400px;
+    top: 136px;
+ }
+
+.bild-2 {
+    position: absolute;
+    width: 400px;
+    height: 600px;
+    left: 113px;
+    top: 1411px;
+ }
+
+
+ 
+.Product-Mannagers {
+    position: relative;
+    width: 1121px;
+    height: 521px;
+    left: 144px;
+    top: 2072px; 
+}
+
+.bild-3 {
+    position: absolute;
+    width: 300px;
+    height: 521px;
+    left: 100px;
+    top: 2000px; 
+}
+
+.Man-text {
+    position: absolute;
+    width: 450px;
+    height: 521px;
+    left: 100px;
+    top: 2000px;   
+}
+.fa-arrow-alt-circle-right {
+    color: #FF9900;
+}
+
+.Marketers {
+    position: relative;
+    width: 1110px;
+    height: 609px;
+    left: 147px;
+    top: 2697px;
+}
+
+.Tittle {
+    position: absolute;
+    width: 400px;
+    height: 181px;
+    left: 147px;
+    top: 2736px;
+} 
+.tittle-1 {
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    left: 147px;
+    top: 2947px;
+}
+
+.tittle-2 {
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    left: 147px;
+    top: 3062px;
+}
+
+.tittle-3 {
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    left: 160px;
+    top: 3177px;
+}
+
+.bild-4 {
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    left: 147px;
+    top: 0px;
+}
+
+.fotter {
+    position:absolute;
+    width: 1109px;
+    height: 308px;
+    left: 160px;
+    top: 3452px;
+}
+
+.logo-2 {
+
+    position: absolute;
+    width: 185px;
+    height: 32px;
+    left: 173px;
+    top: 3555px;
+    background-color: white;
+    color:#2F281E;
+    font-family:'Yusei Magic', sans-serif;
+    border-radius: 0px;
+    font-size: 25px;
+    font-weight: 900px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-shadow: 2px 2px 5px black;text-align: center; 
+
+}
+
+.Quick-l {
+    position: absolute;
+    width: 50px;
+    height: 205px;
+    left: 484px;
+    top: 3666px;
+    color: #544837;
+}
+
+.Legal {
+    position: absolute;
+    width: 110px;
+    height: 205px;
+    left: 731px;
+    top: 3666px;    
+}
+
+.rek {
+    position: absolute;
+    left:1000px;
+    top: 3666px;
+    padding: 20px;
+    width: 325px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 1px solid #BCD0E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+    
+}
+
+.button-s {
+   position: absolute; 
+   top: 3777px; 
+   left: 1000px;
+   width: 131px; 
+   height: 39px;
+   font-family: Poppins;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: 24px;
+   letter-spacing: 0px;
+   text-align: center;
+   color: white; 
+   background: #FF9900;
+   border-radius: 4px;
+}
+
